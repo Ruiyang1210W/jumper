@@ -61,6 +61,12 @@ register(
     use="watching",
 )
 register(
+    id="disco",
+    description="dark glossy dance floor, dim light -- for robots that bring their own lights",
+    tags=("presentation",),
+    use="watching",
+)
+register(
     id="daylight",
     description="blue sky, warm ground, one hard sun with shadows",
     tags=("presentation", "outdoor"),
